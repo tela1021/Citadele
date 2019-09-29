@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class runTests extends mainFunc {
+public class visualTest extends mainFunc {
     @Test
     public void Tests() throws Exception {
 
@@ -11,7 +11,7 @@ public class runTests extends mainFunc {
         buttonContinueCheck();
         forgotPasswordCheck();
         footterListLinkCheck();
-        footterCopyrightCheck();
+        footerCopyrightCheck();
         listHelpLinkCheck();
         countryListCheck();
         langLinksCheck();

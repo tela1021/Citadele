@@ -42,6 +42,11 @@ class variables {
     String HELP_LINK = "https://online.citadele.lv/ibhelp/login_lv_lv.htm";
     String HELP_TEXT_LV = "Palīdzība";
     String HELP_ICON_CLASS = "css_icon css_help-icon";
+    String ERROR_TEXT_WORNG_NAME_USERNAME_LV = "Nepareizs pieslēgšanās vārds.";
+    String ERROR_ICON_CLASS = "css_icon css_help-icon";
+    String ERROR_TEXT_USER_NOT_IDENT = "Lietotājs nav identificēts.";
+    String ERROR_TEXT_WRONG_PASS = "Parole nav ievadīta pareizi.";
+    String ERROR_TEXT_USERBLOCKED_LV = "Jūsu pieslēgšanās vārds ir bloķēts.";
 
 
 }
